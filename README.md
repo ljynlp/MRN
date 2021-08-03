@@ -33,7 +33,7 @@ Source code for ACL-IJCNLP 2021 findings paper:
 
 ## 5. Submission to LeadBoard (CodaLab)
 
-You will get json file named `result.json` for test set at step 5. Then you can submit it to [CodaLab](https://competitions.codalab.org/competitions/20717#learn_the_details).
+You will get json file named `result.json` for test set at step 4. Then you can submit it to [CodaLab](https://competitions.codalab.org/competitions/20717#learn_the_details).
 
 ## 6. License
 
