@@ -1,6 +1,4 @@
-# MRN
-
-# HiTrans: A Transformer-Based Context- and Speaker-Sensitive Model for Emotion Detection in Conversations
+# MRN: A Locally and Globally Mention-Based Reasoning Network for Document-Level Relation Extraction
 
 Source code for ACL-IJCNLP 2021 findings paper: 
 [MRN: A Locally and Globally Mention-Based Reasoning Network for Document-Level Relation Extraction](https://aclanthology.org/2021.findings-acl.117/).
